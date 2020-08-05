@@ -12,7 +12,7 @@ I'm Eve, originally a front-end developer but in the past year I'm in an back-en
 
 Feel free to follow me on my other social media and let me know so I can follow you back :)
 
-[Personal Instagram](https://instagram.com/montalvaoeve)
-[Art Instagram](https://instagram.com/stairwaytoeve)
-[Linkedin](https://linkedin.com/in/evemontalvao)
-[Twitter](https://twitter.com/stairwaytoeve)
+- [Personal Instagram](https://instagram.com/montalvaoeve)
+- [Art Instagram](https://instagram.com/stairwaytoeve)
+- [Linkedin](https://linkedin.com/in/evemontalvao)
+- [Twitter](https://twitter.com/stairwaytoeve)
